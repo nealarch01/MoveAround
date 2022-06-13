@@ -1,0 +1,10 @@
+div.root {
+    background-color: black;
+}
+
+div.box {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
